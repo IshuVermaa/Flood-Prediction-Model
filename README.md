@@ -1,4 +1,4 @@
-# Dataset for kerela rainfall
+# Dataset for Kerela rainfall
 
 A file named kerela.csv is attached to the repository which is the dataset used in this project. The fields of the dataset are Subdivision (string), Year(integer), Months(integer), Rainfall(integer), Floods(boolean)
 
