@@ -1,6 +1,6 @@
 # Dataset for kerela rainfall
 
--A file named kerela.csv is attached to the repository which is the dataset used in this project. The fields of the dataset are Subdivision (string), Year(integer), Months(integer), Rainfall(integer), Floods(boolean)
+A file named kerela.csv is attached to the repository which is the dataset used in this project. The fields of the dataset are Subdivision (string), Year(integer), Months(integer), Rainfall(integer), Floods(boolean)
 
 # Setup Environmnt
 
@@ -24,8 +24,3 @@ It will run all the cells and will show the desired output.
 
 to get the best possible model to predict the floods using Kerela Rainfall Data.
 <hr>
-
-![image](https://github.com/amandp13/Flood-Prediction-Model/blob/master/download.png)
-
-## License
-- License under [GNU](https://github.com/amandp13/Flood-Prediction-Model/blob/master/LICENSE)
