@@ -3,6 +3,7 @@
 A file named kerela.csv is attached to the repository which is the dataset used in this project. The fields of the dataset are Subdivision (string), Year(integer), Months(integer), Rainfall(integer), Floods(boolean)
 
 # Setup Environmnt
+Click on download zip, and after that unzip the folder. Right click on unzipped folder and select open in terminal. The type the command code . to open this in vscode. 
 
 Create virtual environment: python -m venv myvenv
 Activating virtual Environment: myvenv/Scripts/activate
