@@ -10,6 +10,8 @@ Activating virtual Environment: myvenv/Scripts/activate
 pip install numpy
 pip install pandas
 
+In Flood_Prediction.ipynb file, in cell 4, edit this line os.chdir(r'C:/Users/DELL/Downloads/Flood-Prediction-Model-master/Flood-Prediction-Model'). Copy the path of this project folder in your system and paste it here in place of the current path.
+
 After setting up, open Flood_Prediction.ipynb and click on Run All button on the top of the window.
 It will run all the cells and will show the desired output. 
 
